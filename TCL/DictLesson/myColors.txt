@@ -1,0 +1,27 @@
+red
+orange
+yellow
+green
+indigo
+blue
+violet
+this is a new line
+
+this is a new line also
+
+this is a new line
+
+this is a new line also
+
+this is a new line
+
+this is a new line also
+
+this is a new line
+
+this is a new line also
+
+this is a new line
+
+this is a new line also
+
